@@ -3,7 +3,7 @@
 venv/
 
 # Jupyter
-.ipynb_checkpoints/
+**/.ipynb_checkpoints/
 
 # Cache do Python
 __pycache__/
