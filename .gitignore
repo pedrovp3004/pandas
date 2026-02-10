@@ -1,8 +1,9 @@
 # Ambiente virtual
-../venv/
 venv/
+.venv/
+../venv/
 
-# Jupyter
+# Jupyter (qualquer pasta)
 **/.ipynb_checkpoints/
 
 # Cache do Python
@@ -11,3 +12,5 @@ __pycache__/
 
 # Sistema
 .DS_Store
+Thumbs.db
+
